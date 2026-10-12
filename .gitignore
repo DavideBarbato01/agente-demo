@@ -1,0 +1,7 @@
+.env
+.venv/
+audit.log
+__pycache__/
+.adk/
+.DS_Store
+*.db
